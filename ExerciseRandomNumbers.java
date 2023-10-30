@@ -1,7 +1,7 @@
 package exercise_randomnumbers;
 import java.util.Random;
 
-public class RandomNumbers {
+public class ExerciseRandomNumbers{
     
     public static void main(String[] args){
         

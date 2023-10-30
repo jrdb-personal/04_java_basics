@@ -1,6 +1,6 @@
 package exercise_numberlist;
 
- public class NumberList {
+ public class ExerciseNumberList {
     public static void main(String[] args){
         int numRows, numTabs, numOutput,numStart, numCtr;
         numRows = 23;

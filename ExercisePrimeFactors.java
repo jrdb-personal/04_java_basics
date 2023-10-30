@@ -1,6 +1,6 @@
 package exercise_primefactors;
 import java.io.*;
-public class PrimeFactors {
+public class ExercisePrimeFactors {
     
     public static void main (String args[]) throws IOException{
     	BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

@@ -2,7 +2,7 @@ package exericse_binaryconversion;
 
 import java.io.*;
 
-public class BinaryConversion {
+public class ExerciseBinaryConversion {
     
     public static void main(String args[]) throws IOException{
     	BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

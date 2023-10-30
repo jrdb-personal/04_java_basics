@@ -3,7 +3,7 @@ package exercise_minesweeper;
 
 import java.io.*;
 import java.util.*;
-public class MineSweeper 
+public class ExerciseMineSweeper 
 {
 
     public MineSweeper() 

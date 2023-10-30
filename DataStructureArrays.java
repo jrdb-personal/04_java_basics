@@ -1,4 +1,4 @@
-public class Arrays {
+public class DataStructureArrays {
 
     static int index =0;
     static char[] Alphabet = {'a', 'b', 'c', 'd', 'e', 'f', 'g'};

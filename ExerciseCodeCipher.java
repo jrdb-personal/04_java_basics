@@ -1,7 +1,7 @@
 package exercise_codecipher;
 import java.io.*;
 
-public class CodeCipher {
+public class ExerciseCodeCipher {
     
     public static void main(String args[]) throws IOException{
     	BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
