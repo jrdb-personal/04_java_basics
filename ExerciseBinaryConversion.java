@@ -1,5 +1,4 @@
 package exericse_binaryconversion;
-
 import java.io.*;
 
 public class ExerciseBinaryConversion {
