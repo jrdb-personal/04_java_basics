@@ -5,7 +5,6 @@ public class DataStructureArrays {
     static char[] Letters = {'k', 'b', 'm', 'x', 'f', 'r', 'i'};
 
     public static void main(String[] args) {
-
         //binary search on arrays
         int arrIndex = myBinarySearch(Alphabet, 'e', 0, Alphabet.length);
         if (arrIndex > 0){
@@ -30,7 +29,6 @@ public class DataStructureArrays {
         for (int x=0; x<Letters.length; x++){
             System.out.print(arrSort[x]);
         }
-
     }
 
     public static int myBinarySearch(char[] arrSearch, char key, int min, int max){
