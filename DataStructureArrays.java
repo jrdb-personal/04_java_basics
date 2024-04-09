@@ -24,7 +24,7 @@ public class DataStructureArrays {
         }
 
 
-        //sorting arrrays
+        //sort arrrays
         char arrSort[] = myArraySorting(Letters);
         for (int x=0; x<Letters.length; x++){
             System.out.print(arrSort[x]);
